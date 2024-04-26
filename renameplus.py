@@ -26,3 +26,4 @@ for index, file in enumerate(files, start=1):
     print(f"Renamed {file} to {new_file_name}")
     
 print("Renaming completed.")
+# test
